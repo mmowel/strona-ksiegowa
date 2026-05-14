@@ -63,7 +63,7 @@ export function Header() {
             </summary>
 
             <div className="absolute right-0 top-14 w-[min(88vw,320px)] overflow-hidden rounded-3xl border border-border bg-white p-3 shadow-soft animate-fade-down">
-              {/*
+              
               <nav className="grid gap-1" aria-label="Menu mobilne">
                 {nav.map((n) => (
                   <Link
@@ -88,7 +88,7 @@ export function Header() {
                   <ArrowRight className="h-4 w-4" />
                 </Link>
               </nav>
-              */}
+              
             </div>
           </details>
         </div>

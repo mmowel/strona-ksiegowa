@@ -71,7 +71,7 @@ export function Footer() {
               ))}
             </div>
           </div>
-{/*
+
           <div className="border-white/10 lg:border-l lg:pl-12">
             <h4 className="text-sm font-bold uppercase tracking-[0.22em] text-white">
               Nawigacja
@@ -93,7 +93,7 @@ export function Footer() {
               ))}
             </ul>
           </div>
-*/}
+
           <div className="border-white/10 lg:border-l lg:pl-12">
             <h4 className="text-sm font-bold uppercase tracking-[0.22em] text-white">
               Kontakt
